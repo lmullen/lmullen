@@ -1,8 +1,8 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="right" width="45%" style="margin-right:20px;" src="https://github-readme-stats.vercel.app/api?username=lmullen&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true" />
+<a href="https://github.com/lmullen">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lmullen&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="right" width="45%" style="margin-right:20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmullen&hide=html,css,tex,vim%20script,rich%20text%20format&langs_count=10&layout=compact" />
+<a href="https://github.com/lmullen">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmullen&hide=html,css,tex,vim%20script,rich%20text%20format&langs_count=10&layout=compact" />
 </a>
 
 ### 🚀 Greetings 
