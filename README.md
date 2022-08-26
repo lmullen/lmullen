@@ -6,12 +6,8 @@ I'm [Lincoln Mullen](https://lincolnmullen.com). I am a historian of American re
 
 <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmullen&hide=html,css,tex,vim%20script,rich%20text%20format&langs_count=10&layout=compact">
 
+You can find me at various places around the internet:
 
-<form action=https://buttondown.email/api/emails/embed-subscribe/lmullen method=post target=popupwindow onsubmit='window.open("https://buttondown.email/lmullen","popupwindow")' class=embeddable-buttondown-form>
-<fieldset id=newsletter-form>
-<input type=email name=email id=bd-email placeholder="Your email address">
-<input type=hidden value=1 name=embed>
-<input type=hidden name=tag value=homepage>
-<input class=submit type=submit value=Subscribe>
-</fieldset>
-</form>
+- [My website](https://lincolnmullen.com)
+- [My Micro.blog](https://weblog.lincolnmullen.com/)
+- [My newsletter](https://buttondown.email/lmullen) about American religious history, digital history, and the making thereof
