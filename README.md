@@ -4,7 +4,7 @@ I'm [Lincoln Mullen](https://lincolnmullen.com). I am a historian of American re
 
 
 <img align="right" style="clear:left;" src="https://github-readme-stats.vercel.app/api?username=lmullen&count_private=true&show_icons=true&hide_rank=true&include_all_commits=true" />
-<img align="center" style="clear:left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmullen&hide=html,css,tex,vim%20script,rich%20text%20format&langs_count=10&layout=compact" />
+<img align="right" style="clear:left;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmullen&hide=html,css,tex,vim%20script,rich%20text%20format&langs_count=10&layout=compact" />
   
 You can find me at various places around the internet:
 
